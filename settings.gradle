@@ -1,0 +1,2 @@
+rootProject.name='LonsPayApp'
+include ':app'

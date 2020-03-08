@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LonsPayApp</string>
+    <string name="enter_email">Enter an email address</string>
+    <string name="enter_valid_email">Enter valid email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_valid_password">Enter at least 8 letters</string>
+</resources>
